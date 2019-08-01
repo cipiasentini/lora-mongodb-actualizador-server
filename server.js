@@ -78,5 +78,6 @@ app.listen(port);
 var http = require("http");
 
 setInterval(function() {
-  http.get('http://www.xeracto.com:2525/api/database/post');
+  // http.get('http://www.xeracto.com:2525/api/database/post');
+  http.get('http://127.0.0.1:8080/api/database/post');
 }, 60000)
