@@ -24,7 +24,7 @@
     "nodemon": "^1.19.1",
     "serve-static": "^1.14.1",
     "stylus": "^0.54.5",
-    "stylus-loader": "^3.0.1"
+    "stylus-loader": "^7.1.0"
   },
   "eslintConfig": {
     "root": true,
